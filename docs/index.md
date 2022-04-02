@@ -11,7 +11,7 @@
 - [Google App Engine で Go を動かしてみよう](https://womenwhogotokyo.github.io/codelab/google-app-engine-go?index=codelab) by [micchie](https://twitter.com/micchiebear)
 - [Google Cloud Functions で Go を動かしてみよう](https://womenwhogotokyo.github.io/codelab/google-cloud-functions-go?index=codelab) by [micchie](https://twitter.com/micchiebear)
 - [Go の並行処理を体験してみよう](https://womenwhogotokyo.github.io/codelab/tutorial-concurrency-go/?index=codelab) by [micchie](https://twitter.com/micchiebear)
-- [数で遊ぼう 〜 コマンドラインツールで数を操る](https://womenwhogotokyo.github.io/codelab/play-with-number?index=codelab) by [miki](https://twitter.com/mikisslv09), [mom0tomo](https://twitter.com/mom0tomo), [micchie](https://twitter.com/micchiebear)
+- [数で遊ぼう 〜 コマンドラインツールで数を操る](https://womenwhogotokyo.github.io/codelab/play-with-number?index=codelab) by [miki](https://twitter.com/mikiislv09), [mom0tomo](https://twitter.com/mom0tomo), [micchie](https://twitter.com/micchiebear)
 
 
 ## サブコンテンツ
@@ -21,5 +21,5 @@
 ## Amigurumi Gophers
 Amigurumi Gophersによる編み物コンテンツです。英語と日本語のコードラボがあります。GoConference2022 Springでは編み物コンテンツのメンターがつきませんので、各々でお楽しみください。
 
-- [初めて編むGopher](https://womenwhogotokyo.github.io/codelab/gopher-amigurumi/ja?index=codelab) by [miki](https://twitter.com/mikisslv09), [mihohoi](https://twitter.com/Danny_miho)
-- [The First Gopher Amigurumi](https://womenwhogotokyo.github.io/codelab/gopher-amigurumi/en?index=codelab) by [miki](https://twitter.com/mikisslv09), [mihohoi](https://twitter.com/Danny_miho)
+- [初めて編むGopher](https://womenwhogotokyo.github.io/codelab/gopher-amigurumi/ja?index=codelab) by [miki](https://twitter.com/mikiislv09), [mihohoi](https://twitter.com/Danny_miho)
+- [The First Gopher Amigurumi](https://womenwhogotokyo.github.io/codelab/gopher-amigurumi/en?index=codelab) by [miki](https://twitter.com/mikiislv09), [mihohoi](https://twitter.com/Danny_miho)
