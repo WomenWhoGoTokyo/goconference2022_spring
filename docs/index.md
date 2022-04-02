@@ -5,7 +5,7 @@
 ハンズオンでは、Googleコードラボを利用します。Googleコードラボとは、自分のペースで進められる短いチュートリアルです。
 
 ここにあるコードラボはWomen Who Go Tokyoの運営メンバーによって作られたものです。 主にGoに関する内容のものになります。
-何か問題や間違いがありましたら、issueを起票してください。
+何か問題や間違いがありましたら、[issue](https://github.com/WomenWhoGoTokyo/codelab/issues)を起票してください。
 
 ## コードラボ一覧
 - [Google App Engine で Go を動かしてみよう](https://womenwhogotokyo.github.io/codelab/google-app-engine-go?index=codelab) by [micchie](https://twitter.com/micchiebear)
