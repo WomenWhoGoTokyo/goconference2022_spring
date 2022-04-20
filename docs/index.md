@@ -8,9 +8,9 @@
 何か問題や間違いがありましたら、[issue](https://github.com/WomenWhoGoTokyo/codelab/issues)を起票してください。
 
 ## コードラボ一覧
-- [Google App Engine で Go を動かしてみよう](https://womenwhogotokyo.github.io/codelab/google-app-engine-go?index=codelab) by [micchie](https://twitter.com/micchiebear)
-- [Google Cloud Functions で Go を動かしてみよう](https://womenwhogotokyo.github.io/codelab/google-cloud-functions-go?index=codelab) by [micchie](https://twitter.com/micchiebear)
-- [Go の並行処理を体験してみよう](https://womenwhogotokyo.github.io/codelab/tutorial-concurrency-go/?index=codelab) by [micchie](https://twitter.com/micchiebear)
+- [Google App Engine で Go を動かしてみよう](https://womenwhogotokyo.github.io/codelab/google-app-engine-go?index=codelab) by [micchie](https://twitter.com/micchiebear), [Misato](https://twitter.com/mikkegt)
+- [Google Cloud Functions で Go を動かしてみよう](https://womenwhogotokyo.github.io/codelab/google-cloud-functions-go?index=codelab) by [micchie](https://twitter.com/micchiebear), [mom0tomo](https://twitter.com/mom0tomo)
+- [Go の並行処理を体験してみよう](https://womenwhogotokyo.github.io/codelab/tutorial-concurrency-go/?index=codelab) by [micchie](https://twitter.com/micchiebear), [mom0tomo](https://twitter.com/mom0tomo)
 - [数で遊ぼう 〜 コマンドラインツールで数を操る](https://womenwhogotokyo.github.io/codelab/play-with-number?index=codelab) by [miki](https://twitter.com/mikiislv09), [mom0tomo](https://twitter.com/mom0tomo), [micchie](https://twitter.com/micchiebear)
 
 
