@@ -19,7 +19,7 @@
 - [Google Cloud Shell でGoの開発をはじめよう](https://womenwhogotokyo.github.io/codelab/google-cloud-shell-go-solo?index=codelab) by [micchie](https://twitter.com/micchiebear), [Misato](https://twitter.com/mikkegt)
 
 ## Amigurumi Gophers
-Amigurumi Gophersによる編み物コンテンツです。英語と日本語のコードラボがあります。GoConference2022 Springでは編み物コンテンツのメンターがつきませんので、各々でお楽しみください。
+Amigurumi Gophersによる編み物コンテンツです。英語と日本語のコードラボがあります。編み物コンテンツのメンターがおりますので、GoConference2022 Springの会場にてお声がけ下さい。
 
 - [初めて編むGopher](https://womenwhogotokyo.github.io/codelab/gopher-amigurumi/ja?index=codelab) by [miki](https://twitter.com/mikiislv09), [mihohoi](https://twitter.com/Danny_miho)
 - [The First Gopher Amigurumi](https://womenwhogotokyo.github.io/codelab/gopher-amigurumi/en?index=codelab) by [miki](https://twitter.com/mikiislv09), [mihohoi](https://twitter.com/Danny_miho)
